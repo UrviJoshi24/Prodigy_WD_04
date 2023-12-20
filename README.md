@@ -39,7 +39,7 @@ Connect with me! You can find me on:
 
 - [GitHub](https://github.com/UrviJoshi24)
 - [LinkedIn](https://github.com/UrviJoshi24)
-- Email: [your_email@gmail.com](mailto:urvijoshi2407@gmail.com)
+- Email: [urvijoshi2407@gmail.com](mailto:urvijoshi2407@gmail.com)
 
 Feel free to drop me a message if you're interested in collaboration or just want to say hello!
 
