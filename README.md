@@ -18,7 +18,7 @@ Hi there! I'm Urvi Joshi, a passionate web developer with a strong interest in c
 
 To run the portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Prodigy_WD_04.git`
+1. Clone the repository: `git clone https://github.com/UrviJoshi24/Prodigy_WD_04.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
